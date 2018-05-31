@@ -10,3 +10,4 @@ The created entities are encapsulated:
 
 ### Next steps
 - Implement a way to get different implementations
+- Add Docker
