@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="SimpleService test suite" tests="2" assertions="4" failures="0" errors="0" time="0.054583">
+    <testsuite name="SimpleService\Service\HotelServiceTest" file="/home/jeferson/Documents/outros/CaseStudyPHP/tests/Service/HotelServiceTest.php" tests="2" assertions="4" failures="0" errors="0" time="0.054583">
+      <testcase name="test_getHotelsForCity_with_city_moscow" class="SimpleService\Service\HotelServiceTest" file="/home/jeferson/Documents/outros/CaseStudyPHP/tests/Service/HotelServiceTest.php" line="15" assertions="3" time="0.052229"/>
+      <testcase name="test_getHotelsForCity_throws_InvalidArgumentException_on_unmapped_city_name" class="SimpleService\Service\HotelServiceTest" file="/home/jeferson/Documents/outros/CaseStudyPHP/tests/Service/HotelServiceTest.php" line="39" assertions="1" time="0.002354"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

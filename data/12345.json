@@ -1,0 +1,54 @@
+{
+    "city": "Moscow",
+    "id": 12345,
+    "hotels": {
+        "1": {
+            "name": "Hilton Moscow",
+            "adr": "Address description, 123 Moscow",
+            "partners": {
+                "101": {
+                    "name": "hotel.com",
+                    "url": "http://www.hotel.com",
+                    "prices": {
+                        "1001": {
+                            "description": "Single Room",
+                            "amount": 125,
+                            "from": "2012-10-12",
+                            "to": "2012-10-13"
+                        },
+                        "1002": {
+                            "description": "Double Room",
+                            "amount": 139,
+                            "from": "2012-10-12",
+                            "to": "2012-10-13"
+                        }
+                    }
+                }
+            }
+        },
+        "2": {
+            "name": "MoscowCity Nord",
+            "adr": "Address description, 321 Moscow",
+            "partners": {
+                "201": {
+                    "name": "hotel.com",
+                    "url": "http://www.hotel.com",
+                    "prices": {
+                        "2001": {
+                            "description": "Single Room",
+                            "amount": 52,
+                            "from": "2012-10-12",
+                            "to": "2012-10-13"
+                        },
+                        "2002": {
+                            "description": "Double Room",
+                            "amount": 52,
+                            "from": "2012-10-12",
+                            "to": "2012-10-13"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

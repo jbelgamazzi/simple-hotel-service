@@ -1,0 +1,4 @@
+SimpleService\Service\HotelService
+ [x] getHotelsForCity with city moscow
+ [x] getHotelsForCity throws InvalidArgumentException on unmapped city name
+
