@@ -1,5 +1,5 @@
-# simple-hotel-service
-Simple Hotel Service
+# simple-service
+Simple Service
 
 This service aims to display hotels for a certain city. This is not a query API, so some information has been add in the code and the data source is represented by a JSON file.
 
